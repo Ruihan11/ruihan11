@@ -31,23 +31,16 @@ I'm a Computer Engineering graduate student at NYU with a passion for building h
 
 ## 📊 Open Source Contributions
 
-### **[LLVM Project](https://github.com/llvm/llvm-project)**
+### **[LLVM](https://github.com/Ruihan11/triton-benchmark)**
 - RISC-V backend optimization passes
 - MLIR dialect extensions for GPU operations
 
-### **[Triton](https://github.com/openai/triton)**
+### **[Triton](https://github.com/Ruihan11/triton-mlir-benchmark)**
 - Custom kernels for specialized operators
 - Performance benchmarking suite
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
 
 ## 🎯 Current Focus
 

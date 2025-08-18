@@ -23,9 +23,8 @@ I'm a Computer Engineering graduate student at NYU with a passion for building h
 - **Hardware**: Verilog, Chisel, FPGA
 
 ### **Infrastructure & Systems**
-- **Distributed Systems**: Ray, Horovod, DDP
 - **Container & Orchestration**: Docker, Kubernetes
-- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Monitoring**: Grafana
 
 ---
 

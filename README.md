@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering graduate student at NYU with a passion for building high-performance systems and optimizing computational workloads at scale. My expertise spans from low-level GPU kernel optimization to compiler infrastructure and distributed systems.
 
-📍 Brooklyn, NY | 📧 rl5409@nyu.edu | 🎓 NYU '25
+📍 Brooklyn, NY | 🎓 NYU '25
 
 ---
 
@@ -12,9 +12,4 @@ I'm a Computer Engineering graduate student at NYU with a passion for building h
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLIR](https://img.shields.io/badge/-MLIR-5C85DE?style=flat-square&logo=llvm&logoColor=white)
-
-- **GPU Programming**: CUDA, cuBLAS, cuDNN, Triton, CUTLASS
-- **Compilers**: LLVM/MLIR, GCC, PTX
-- **Profiling**: NSight, NVTX
-- **Hardware**: Verilog, Chisel, FPGA
 

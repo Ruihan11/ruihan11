@@ -1,4 +1,4 @@
-# Hi there, I'm Ruihan Li 👋
+# Hi there
 
 I'm a Computer Engineering graduate student at NYU with a passion for building high-performance systems and optimizing computational workloads at scale. My expertise spans from low-level GPU kernel optimization to compiler infrastructure and distributed systems.
 
